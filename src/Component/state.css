@@ -1,0 +1,41 @@
+.sam {
+  display: flex;
+}
+
+.card_container {
+  margin-right: 10%;
+}
+.statusone {
+  margin-right: 10%;
+  margin-top: 10%;
+  padding-top: 1%;
+  background-color: rgb(165, 29, 74);
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 3%;
+}
+.statustwo {
+  margin-right: 10%;
+  margin-top: 10%;
+  padding-top: 1%;
+  background-color: rgb(165, 29, 74);
+  border: thick;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 3%;
+}
+.statusthree {
+  margin-right: 10%;
+  margin-top: 10%;
+  padding-top: 1%;
+  background-color: rgb(165, 29, 74);
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 3%;
+}
+.Rate {
+  padding-top: 10%;
+}
+.script {
+  margin-right: 15%;
+}
